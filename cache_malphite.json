@@ -1,0 +1,20 @@
+{
+    "champion": "malphite",
+    "primary_path": "Sorcery",
+    "keystone": "Arcane Comet",
+    "primary_runes": [
+        "Manaflow Band",
+        "Transcendence",
+        "Scorch"
+    ],
+    "secondary_path": "Resolve",
+    "secondary_runes": [
+        "Second Wind",
+        "Overgrowth"
+    ],
+    "stat_shards": [
+        "Attack Speed",
+        "Health Scaling",
+        "Health Scaling"
+    ]
+}

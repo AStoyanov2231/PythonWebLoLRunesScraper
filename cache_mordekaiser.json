@@ -1,0 +1,20 @@
+{
+    "champion": "mordekaiser",
+    "primary_path": "Precision",
+    "keystone": "Conqueror",
+    "primary_runes": [
+        "Triumph",
+        "Legend: Haste",
+        "Last Stand"
+    ],
+    "secondary_path": "Resolve",
+    "secondary_runes": [
+        "Second Wind",
+        "Revitalize"
+    ],
+    "stat_shards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health Scaling"
+    ]
+}
